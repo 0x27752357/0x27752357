@@ -4,3 +4,4 @@
 - 📫 How to reach me: amirsbry1942@gmail.com
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<i class="devicon-python-plain"></i>
