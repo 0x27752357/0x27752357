@@ -6,5 +6,3 @@
 
 
 - 📫 How to reach me: amirsbry1942@gmail.com
-
-![XOsX](https://user-images.githubusercontent.com/89149731/158371988-80568ca1-2efc-447e-9e0e-840cb0b7cc0f.gif)
